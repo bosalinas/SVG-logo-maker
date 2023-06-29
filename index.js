@@ -19,12 +19,12 @@ inquirer
         {
             type: 'input',
             name: 'color',
-            message: 'Type in the name or hexadecimal number for the color of your shape',
+            message: 'Type a color for the shape (name or # hexidecimal)',
         },
         {
             type: 'input',
             name: 'text_color',
-            message: 'Type in the name or hexadecimal number for the color of your text',
+            message: 'Type a color for the text (name or # hexidecimal)',
         },
         {
             type: 'list',
