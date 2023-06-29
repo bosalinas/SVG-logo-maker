@@ -28,9 +28,6 @@ Inquirer.js 8.2.4
 ## Video Walkthrough
 [![Watch the video](https://img.youtube.com/vi/UqJDJzOdQes/hqdefault.jpg)](https://youtu.be/UqJDJzOdQes)
 
-## Sample image
-![SVG image](file:///C:/Users/pwy958/OneDrive%20-%20University%20of%20Texas%20at%20San%20Antonio/Desktop/logo.svg)
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the SVG Logo Generator, please follow these steps:
 
